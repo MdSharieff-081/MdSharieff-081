@@ -58,7 +58,7 @@ Whether it's designing elegant UIs, working with backend logic, or sharpening my
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🌱 **Green Genie** | A smart eco-awareness chatbot that helps users learn about renewable energy through semantic search and vector-based responses. | React.js, Node.js, Vite, FAISS, LangChain |
+| 🌱 **Green Genie** | A smart eco-awareness chatbot that helps users learn about renewable energy through semantic search and vector-based responses. | React.js, Django, Vite, FAISS, LangChain |
 | 📚 **AI Teacher Assistant** | An automated grading tool that reads uploaded assignments, analyzes answers using AI, and gives intelligent feedback. | React.js, Node.js, Express.js, PDF Parser, Gemini API |
 
 ---
