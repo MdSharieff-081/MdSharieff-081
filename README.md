@@ -61,13 +61,13 @@ Whether it's designing elegant UIs, working with backend logic, or sharpening my
 
 ## 📈 GitHub Stats
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=MdSharieff-081&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSharieff-081&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSharieff-081&show_icons=true&theme=tokyonight)
 
-### 🔥 GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=MdSharieff-081&theme=radical&hide_border=true)
+
+
 
 
 
